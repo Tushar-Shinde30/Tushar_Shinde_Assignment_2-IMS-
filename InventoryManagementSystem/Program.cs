@@ -83,7 +83,7 @@ class Inventory
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
         Inventory inventory = new Inventory();
 
